@@ -1,9 +1,5 @@
 # RPN Calculator
 
-![RPN](http://scoutant.org/rpn_60_60_24_7_pixel_40p.png)
-
-<a href="https://f-droid.org/packages/org.scoutant.rpn" target="_blank">
-
 Very easy to use **RPN Calculator** for Android device. Neat and simple, yet powerful for everyday use. 
 
 Do remember that with __Reverse Polish Notation__ you first type the numbers and you finish with the operator. See https://en.wikipedia.org/wiki/Reverse_Polish_notation.
