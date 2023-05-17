@@ -3,7 +3,6 @@
 ![RPN](http://scoutant.org/rpn_60_60_24_7_pixel_40p.png)
 
 <a href="https://f-droid.org/packages/org.scoutant.rpn" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
 
 Very easy to use **RPN Calculator** for Android device. Neat and simple, yet powerful for everyday use. 
 
